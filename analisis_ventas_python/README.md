@@ -1,4 +1,4 @@
-Análisis de Datos de Ventas con Python 🛒📊
+## Análisis de Datos de Ventas con Python 🛒📊
 
 Este proyecto es parte de mi portfolio como analista de datos en formación. Utiliza Python y pandas para analizar datos de ventas, generando visualizaciones clave que responden a preguntas de negocio.
 
