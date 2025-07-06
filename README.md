@@ -1,13 +1,22 @@
 # 👋 ¡Hola! Soy Diego
 
-Bienvenido a mi portfolio. Este repositorio es una ventana a mis primeros pasos en el mundo del análisis de datos, donde comparto mis avances, aprendizajes y proyectos iniciales.
+Bienvenido a mi portfolio. Este repositorio es una ventana a mis primeros pasos en el mundo del **análisis de datos**, donde comparto mis avances, aprendizajes y proyectos prácticos.
 
-## 📄 Carta de Presentación
+---
 
-Estoy dando mis primeros pasos en el fascinante mundo del análisis de datos, impulsado por una gran curiosidad y ganas de aprender. Cada día exploro nuevas herramientas, técnicas y formas de comprender los datos para transformarlos en información útil.
+## 📄 Carta de presentación
 
-Este portfolio es parte de mi camino de aprendizaje: aquí encontrarás ejercicios, proyectos prácticos y retos que he ido completando como parte de mi formación. Mi objetivo es seguir creciendo, aprendiendo de cada experiencia y contribuyendo con ideas frescas y dedicación.
+Estoy comenzando mi camino en el fascinante mundo del análisis de datos, impulsado por la curiosidad y el deseo constante de aprender. Día a día, exploro nuevas herramientas, técnicas y formas de comprender los datos para transformarlos en información útil para la toma de decisiones.
 
-Gracias por visitar mi trabajo. Si estás en el mundo del análisis o simplemente compartes la pasión por aprender, ¡me encantaría conectar!
+Este portfolio refleja mi proceso de aprendizaje: aquí encontrarás ejercicios, proyectos y retos que he completado como parte de mi formación.
+
+---
+
+## 🎯 Objetivo
+
+Seguir creciendo como profesional, aprender de cada experiencia y contribuir con ideas frescas, dedicación y compromiso.
+
+Gracias por visitar mi trabajo.  
+Si también estás en el mundo del análisis o compartes la pasión por los datos, ¡me encantaría conectar!
 
 📫 **Contacto:** [diegotrbass2@gmail.com]
