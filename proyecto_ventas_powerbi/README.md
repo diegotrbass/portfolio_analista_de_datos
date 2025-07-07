@@ -58,12 +58,12 @@ Este proyecto forma parte de mi portfolio como analista de datos en formación. 
 
 ---
 
----
-
 ## 🤝 Conecta conmigo
 
 Si compartes interés por el análisis de datos, ¡me encantaría conectar!  
 [LinkedIn](https://www.linkedin.com/in/diego-data-analyst/)
----
 
+diegotrbass2@gmail.com
+
+---
 
