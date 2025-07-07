@@ -73,3 +73,14 @@ Ejemplos:
 
 Gracias por visitar este proyecto 🙌  
 Puedes explorar otros trabajos en mi [portfolio completo](https://github.com/diegotrbass).
+
+---
+
+## 🤝 Conecta conmigo
+
+Si compartes interés por el análisis de datos, ¡me encantaría conectar!  
+[LinkedIn](https://www.linkedin.com/in/diego-data-analyst/)
+
+diegotrbass2@gmail.com
+
+---
