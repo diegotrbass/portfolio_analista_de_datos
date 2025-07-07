@@ -23,6 +23,6 @@ Si también estás en el mundo del análisis o compartes la pasión por los dato
 
 Si compartes interés por el análisis de datos, ¡me encantaría conectar!  
 [LinkedIn](https://www.linkedin.com/in/diego-data-analyst/)
----
+
 diegotrbass2@gmail.com
 ---
