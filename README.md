@@ -19,4 +19,9 @@ Seguir creciendo como profesional, aprender de cada experiencia y contribuir con
 Gracias por visitar mi trabajo.  
 Si también estás en el mundo del análisis o compartes la pasión por los datos, ¡me encantaría conectar!
 
+## 🤝 Conecta conmigo
+
+Si compartes interés por el análisis de datos, ¡me encantaría conectar!  
+[LinkedIn](https://www.linkedin.com/in/diego-data-analyst/)
 📫 **Contacto:** [diegotrbass2@gmail.com]
+---
