@@ -20,4 +20,5 @@ Gracias por visitar mi trabajo.
 Si también estás en el mundo del análisis o compartes la pasión por los datos, ¡me encantaría conectar!
 
 📫 **Contacto:** [diegotrbass2@gmail.com]
-[LinkedIn](www.linkedin.com/in/diego-data-analyst)
+
+[LinkedIn](htttps://www.linkedin.com/in/diego-data-analyst)
