@@ -29,7 +29,6 @@ Este proyecto forma parte de mi portfolio como analista de datos en formación.
 
 ## Nota: Como estoy en formación, en el script podrás ver muchísimos comentarios para explicar qué hacen ciertas cosas.
 
-
 ---
 
 ## 🤝 Conecta conmigo
