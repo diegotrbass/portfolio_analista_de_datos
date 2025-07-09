@@ -27,4 +27,17 @@ Este proyecto forma parte de mi portfolio como analista de datos en formación.
 1. Ejecuta el script Python para generar el archivo limpio (opcional si ya tienes el Excel).
 2. Abre el archivo `.pbix` en Power BI para explorar el dashboard.
 
-Nota: Como estoy en formación, en el script podrás ver muchísimos comentarios para explicar qué hacen ciertas cosas.
+## Nota: Como estoy en formación, en el script podrás ver muchísimos comentarios para explicar qué hacen ciertas cosas.
+
+
+---
+
+## 🤝 Conecta conmigo
+
+Si compartes interés por el análisis de datos, ¡me encantaría conectar!  
+[LinkedIn](https://www.linkedin.com/in/diego-data-analyst/)
+
+diegotrbass2@gmail.com
+
+---
+
