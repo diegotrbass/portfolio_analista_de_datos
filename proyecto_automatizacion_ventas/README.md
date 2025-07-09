@@ -28,8 +28,7 @@ Este proyecto forma parte de mi portfolio como analista de datos en formación.
 2. Abre el archivo `.pbix` en Power BI para explorar el dashboard.
 
 ## Nota: Como estoy en formación, en el script podrás ver muchísimos comentarios para explicar qué hacen ciertas cosas.
-
-
+---
 
 ## 🤝 Conecta conmigo
 
