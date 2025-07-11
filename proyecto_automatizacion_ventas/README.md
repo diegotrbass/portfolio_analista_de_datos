@@ -8,8 +8,8 @@ Este proyecto forma parte de mi portfolio como analista de datos en formación.
 - Dataset: ventas con detalles por producto, país, vendedor y fecha.
 
 ## Archivos incluidos
+- `datos/ventas_raw.xlsx`: datos iniciales, sin limpiar.
 - `datos/ventas_limpias.xlsx`: datos limpios listos para análisis.
-- `datos/ventas_raw.xlsx`: datos iniciales sin limpiar.
 - `python/limpieza_ventas.py`: script para limpieza y preparación de datos.
 - `powerbi/dashboard_ventas.pbix`: archivo del proyecto Power BI con visualizaciones.
 
