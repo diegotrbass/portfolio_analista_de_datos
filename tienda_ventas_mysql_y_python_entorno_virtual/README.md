@@ -1,7 +1,7 @@
 # Link del proyecto en OneDrive.
 Tuve que compartir el enlace ya que el proyecto pesa más de lo que GitHub permite subir:
 
-[tienda_ventas_mysql_y_python_entorno_virtual(https://1drv.ms/f/c/b58bad0e40b93e37/Eh1v4-5rgQBOghWyoQgwrqYBc8k7mAenMMED9XwiIe9JSA)
+[tienda_ventas_mysql_y_python_entorno_virtual](https://1drv.ms/f/c/b58bad0e40b93e37/Eh1v4-5rgQBOghWyoQgwrqYBc8k7mAenMMED9XwiIe9JSA)
 
 ---
 
